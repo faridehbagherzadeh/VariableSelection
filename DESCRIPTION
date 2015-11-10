@@ -1,0 +1,23 @@
+Package: VariableSelection
+Type: Package
+Title: Identify the appropriate set of predictors of a binary outcome of interest for diagnostic/ptognostic situations
+Version: 1.0-0
+Date: 2015-10-25
+Author: Farideh Bagherzadeh-Khiabani, Davood Khalili
+Authors@R: person("Farideh",	"Bagherzadeh-Khiabani",	email	=	"faridehbagherzadeh@yahoo.com",
+                  role	=	c("aut",	"cre"))
+Maintainer: Farideh Bagherzadeh-Khiabani <faridehbagherzadeh@yahoo.com>
+Description: This package enables users to identify the appropriate set of predictors of a
+    binary outcome of interest for diagnostic/ptognostic situations. Various approaches for
+    selecting variables have been implemented, including Filter and
+    Wrapper approaches. Numerical and graphical output can be easily obtained.
+    The package attempts to provide user-friendly outputs for those who are interested only in the results.
+Depends:
+   R (>= 3.2.2)
+Imports: randomForest,
+    discretization,
+    digest (>=	0.6.8),
+    entropy
+License: GPL-2
+LazyData: true
+Packaged: 2015-10-25 22:39:27
