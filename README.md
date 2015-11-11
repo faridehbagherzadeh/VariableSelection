@@ -5,7 +5,9 @@
 To install and load the package from github, type:
 
 install.packages("devtools") 
+
 devtools::install_github("faridehbagherzadeh/VariableSelection")
+
 library(VariableSelection)
 
 # Documentation
