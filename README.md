@@ -23,7 +23,7 @@ DOI:10.1016/j.jclinepi.2015.10.002
 
 # Site 
 A site for the package has been developed:
-http://faridehbagherzadeh.github.io/VariableSelection/
+http://faridehbagherzadeh.github.io/VariableSelection
 
 # Additional Notes
 The codes are not yet perfect. We are still working on the debugging and generalization of the package to submit it to CRAN. Any recommendation is welcomed. 
